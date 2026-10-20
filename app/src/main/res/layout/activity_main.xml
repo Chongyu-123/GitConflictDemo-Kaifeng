@@ -27,7 +27,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:minHeight="56dp"
-            android:backgroundTint="#3F51B5"
+            android:backgroundTint="#4CAF50"
             android:text="@string/button_one"
             android:textColor="@color/white" />
 
@@ -37,7 +37,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:minHeight="56dp"
-            android:backgroundTint="#3F51B5"
+            android:backgroundTint="#4CAF50"
             android:text="@string/button_two"
             android:textColor="@color/white" />
 
