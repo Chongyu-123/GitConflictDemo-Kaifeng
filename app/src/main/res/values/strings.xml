@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitConflictDemo-Kaifeng</string>
+    <string name="button_one">Button 1</string>
+    <string name="button_two">Button 2</string>
+</resources>
